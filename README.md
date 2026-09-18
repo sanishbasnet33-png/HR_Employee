@@ -59,7 +59,7 @@ Source: [Messy Employee Dataset on Kaggle](https://www.kaggle.com/datasets/desol
 ##### Files
 * [SQL Queries](SQL/Employee_Data_SQL.sql) — SQL queries used for the analysis
 * [Power BI Dashboard](Power_Bi/HR_Employee.pbix) — Power BI dashboard
-* [Cleaned Dataset](Data_Cleaned/HR_Employee.xlsx) — Cleaned version of the dataset
+* [Cleaned Dataset](Data_Cleaned/HR_Employee.csv) — Cleaned version of the dataset
 * [Original Dataset](Data_Orginal/HR_Employee.csv) — Original dataset
 * [Dashboard Screenshot](DashBoard_Screenshot/HR_Employee_Dashboard.png) — Dashboard screenshot
 
